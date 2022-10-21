@@ -1,0 +1,1 @@
+# gopay-s3-migration-script
